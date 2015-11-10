@@ -24,7 +24,7 @@
   "github": "https://github.com/techjacker/node-version-assets",
   "engineStrict" : true,
   "engines": {
-      "node": ">=4"
+      "node": ">=0.12"
   },
   "bugs": {
     "url": "https://github.com/techjacker/node-version-assets/issues"
